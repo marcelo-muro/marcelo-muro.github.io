@@ -29,7 +29,7 @@ permalink: /cv/
 
 ## ⚙️ Industry Experience 
 
-### ⚙**Maintenance Engineer – Nexa Resources, Lima-Peru** *(2015 - 2018)*
+### **Maintenance Engineer – Nexa Resources, Lima-Peru** *(2015 - 2018)*
 - Managed **maintenance inspections & service contracts**, overseeing **7 direct employees & 100+ outsourced staff**.  
 - Ensured **HSE compliance, failure analysis, and CAPEX project development** for maintenance improvements.  
 - Led **technical evaluations, scope definition, and contract compliance** for outsourced maintenance services. 
