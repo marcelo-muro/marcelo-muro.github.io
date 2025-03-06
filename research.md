@@ -4,13 +4,13 @@ title: "Research & Publications"
 permalink: /research/
 ---
 
-# Research & Publications
+# 🧑‍🔬 Research & Publications
 
 ## 🔬 Research Areas
 I am currently working on:
 - **District Heating Networks**: Developing and validating a Modelica-based library for operational and control studies.
 - **Hydrogen Blending in Gas Networks**: Studying gas quality and network dynamics using dynamic modeling and simulation approach.
-- **Nuclear Energy Simulation**: Investigating the operational flexibility of Small Modular Reactors (SMR) and their potential role in hybrid energy systems.
+- **Nuclear Hybrid Energy Systems**: Investigating the operational flexibility of Small Modular Reactors (SMR) and their potential role in nuclear hybrid energy systems (NHES).
 
 ---
 
@@ -29,7 +29,7 @@ I am currently working on:
 
 ## 🛠 Ongoing Projects
 - 📌 Preparing for **IFAC Workshop on Smart Energy Systems** – Submission on dynamic modeling of hydrogen injection.
-- 📌 Exploring open-source modeling tools for **nuclear hybrid energy systems**.
+- 📌 Exploring modeling tools for **nuclear hybrid energy systems** load-level analysis.
 
 ---
 
