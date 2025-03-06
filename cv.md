@@ -23,7 +23,16 @@ permalink: /cv/
 
 ### **🎓 Research Fellow – Politecnico di Milano** *(2021 - 2023)*
 - Focused on **advanced thermal power generation systems modeling**.
-- Developed simulation models to study **power plant dynamics**.
+- Developed simulation models to study **supercritical CO2 power plant dynamics**.
+
+---
+
+## ⚙️ Industry Experience 
+
+### ⚙**Maintenance Engineer – Nexa Resources, Lima-Peru** *(2015 - 2018)*
+- Managed **maintenance inspections & service contracts**, overseeing **7 direct employees & 100+ outsourced staff**.  
+- Ensured **HSE compliance, failure analysis, and CAPEX project development** for maintenance improvements.  
+- Led **technical evaluations, scope definition, and contract compliance** for outsourced maintenance services. 
 
 ---
 
@@ -54,13 +63,13 @@ permalink: /cv/
 
 ## 🌍 Languages
 - 🇬🇧 **English** – Fluent
-- 🇮🇹 **Italian** – Fluent
+- 🇮🇹 **Italian** – Proficient
 - 🇪🇸 **Spanish** – Native  
 
 ---
 
 ## 📬 Contact
-📧 **Email:** [your.email@example.com](mailto:marcelo.muro@outlook.com)  
+📧 **Email:** [marcelo.muro@outlook.com](mailto:marcelo.muro@outlook.com)  
 🔗 **LinkedIn:** [linkedin.com/in/marcelo-muro](https://www.linkedin.com/in/marcelomuro)  
 🏠 **Website:** [marcelo-muro.github.io](https://marcelo-muro.github.io)  
 
