@@ -18,11 +18,11 @@ I am currently working on:
 
 ### **2024**
 - **Muro Alvarado, M. A.**, Anderis, C., Lazzari, R., Nigro, L., La Bella, A. "Development and Experimental Validation of an Open-Source Model Library for District Heating Network Simulation." *OSMSES 2024*.
-  - 📑 [Read Paper](https://your-link-here.com)
+  - 📑 [Read Paper](https://ieeexplore.ieee.org/document/10668994)
   - 📂 DOI: 10.1109/OSMSES62085.2024.10668994
 
 - Anderis, C. **Muro Alvarado, M.A.**, Lazzari, R. "Implementation of an Experimental Facility for District Heating Networks Flexibility Assessment" *AEIT 2024*.
-  - 📑 [Read Paper](https://your-link-here.com)
+  - 📑 [Read Paper](https://ieeexplore.ieee.org/document/10736713)
   - 📂 DOI: 10.23919/AEIT63317.2024.10736713
 
 ---
