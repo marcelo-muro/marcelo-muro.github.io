@@ -1,3 +1,14 @@
 title: "Marcelo Muro"
 theme: jekyll-theme-minimal
 show_downloads: false
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Blog"
+    url: /blog/
+  - title: "Personal Interests"
+    url: /personal/
