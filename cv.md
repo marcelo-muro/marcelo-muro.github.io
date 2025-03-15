@@ -6,7 +6,7 @@ permalink: /cv/
 
 # 📄 Curriculum Vitae
 
-💾 **[Download Full CV (PDF)](https://marcelo-muro.github.io/CV-marcelo-muro.pdf)**  
+💾 **[Download Full CV (PDF)](<a href="https://marcelo-muro.github.io/CV-marcelo-muro.pdf" target="_blank">Open CV</a>)
 
 ## 🎓 Education
 - **M.Sc. in Automation and Control Engineering** – *Politecnico di Milano*, 2021
