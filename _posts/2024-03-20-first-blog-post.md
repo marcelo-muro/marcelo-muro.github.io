@@ -2,7 +2,7 @@
 layout: post
 title: "My First Blog Post"
 date: 2024-03-20
-categories: Modelica, Energy system simulation
+categories: Modelica
 ---
 
 # 🚀 My First Blog Post  
