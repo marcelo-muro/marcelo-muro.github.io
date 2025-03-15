@@ -18,6 +18,3 @@ author: "Marcelo Muro"
 url: "https://marcelo-muro.github.io"
 github_username: "marcelo-muro"
 google_analytics: "UA-XXXXXXXXX-X"  # Add Google Analytics if desired
-paginate: 5
-plugins:
-  - jekill-paginate
