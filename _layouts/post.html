@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><a href="{{ '/' | relative_url }}">Marcelo Muro</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
+                    <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+                    <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+                    <li><a href="{{ '/personal/' | relative_url }}">Personal</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container blog-post">
+        <h1>{{ page.title }}</h1>
+        <p class="post-date">📅 Published on {{ page.date | date: "%B %d, %Y" }}</p>
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+
+        <div class="post-navigation">
+            {% if page.previous.url %}
+                <a class="prev" href="{{ page.previous.url }}">« Previous Post</a>
+            {% endif %}
+            {% if page.next.url %}
+                <a class="next" href="{{ page.next.url }}">Next Post »</a>
+            {% endif %}
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; {{ 'now' | date: "%Y" }} Marcelo Muro. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
