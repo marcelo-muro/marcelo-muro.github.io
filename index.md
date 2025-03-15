@@ -6,6 +6,8 @@ permalink: /
 
 # 👋 Welcome to My Website
 
+![Marcelo Muro](https://marcelo-muro.github.io/assets/images/profile.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 150px; border-radius: 50%;" }
+
 Hi, I'm **Marcelo Muro**, currently working as researcher at [**Ricerca sul Sistema Energetico RSE S.p.A.**](https://www.rse-web.it/). 
 My work focuses on **dynamic modeling, simulation, and control** of multi-energy systems and novel power plants.
 
