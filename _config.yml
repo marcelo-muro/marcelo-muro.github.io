@@ -12,3 +12,9 @@ navigation:
     url: /blog/
   - title: "Personal Interests"
     url: /personal/
+description: "Official website of Marcelo Andre Muro Alvarado, researcher at RSE S.p.A. specializing in dynamic modeling, simulation, and control of multi-energy systems and novel power plants."
+keywords: "Marcelo Muro, control engineer, researcher, object-oriented modeling, power plants, Modelica"
+author: "Marcelo Muro"
+url: "https://marcelo-muro.github.io"
+github_username: "marcelo-muro"
+google_analytics: "UA-XXXXXXXXX-X"  # Add Google Analytics if desired
