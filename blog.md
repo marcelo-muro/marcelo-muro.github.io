@@ -14,13 +14,13 @@ Welcome to my blog! Here, I share insights on **modeling & simulation, Modelica,
 - 📅 **{{ post.date | date: "%B %d, %Y" }}** – [**{{ post.title }}**]({{ post.url }})
 {% endfor %}
 
-{% if paginator.total_pages > 1 %}
+{% if site.total_pages > 1 %}
 <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">« Previous</a>
+    {% if site.previous_page %}
+    <a href="{{ site.previous_page_path }}">« Previous</a>
     {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next »</a>
+    {% if site.next_page %}
+    <a href="{{ site.next_page_path }}">Next »</a>
     {% endif %}
 </div>
 {% endif %}
